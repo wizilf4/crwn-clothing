@@ -1,0 +1,57 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files\Yarn\bin\yarn.js
+
+PATH: 
+  E:\oracle\product\10.2.0\client_1\bin;E:\oracle\product\10.2.0\db_1\bin;C:\Oracle\Middleware\wlserver_10.3\server\lib\weblogic.jar;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Java\jdk1.7.0_45;C:\instantclient_11_2;C:\xampp1\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\PostgreSQL\9.2\bin;C:\Program Files\Common Files\lenovo\easyplussdk\bin;C:\FPC\3.0.4\bin\i386-Win32;C:\Program Files\nodejs\;E:\Git\cmd;C:\Program Files\Yarn\bin\;C:\Users\svm-laptop17\AppData\Roaming\npm;E:\Microsoft VS Code\bin;C:\Users\svm-laptop17\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.19.1
+
+Node version: 
+  10.16.3
+
+Platform: 
+  win32 ia32
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile 'C:\Users\svm-laptop17\AppData\Local\Yarn\Cache\v6\npm-yargs-13.3.0-4c657a55e07e5f2cf947f8a366567c04a0dedc83-integrity\node_modules\yargs\locales\be.json' -> 'C:\Users\svm-laptop17\asynchronous-setstate\node_modules\yargs\locales\be.json'
+
+npm manifest: 
+  {
+    "name": "asynchronous-setstate",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "node-sass": "^4.13.0",
+      "react": "^16.11.0",
+      "react-dom": "^16.11.0",
+      "react-scripts": "3.2.0"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+      "extends": "react-app"
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
